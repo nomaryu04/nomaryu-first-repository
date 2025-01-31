@@ -1,3 +1,4 @@
+#codigo para recojer datos y mostrarlos en pantalla
 nombre = "Ramses"
 apellido = "Torrealba"
 edad = "22"
