@@ -1,6 +1,6 @@
 #codigo para recojer datos y mostrarlos en pantalla
-nombre = "Ramses D' Jesus"
-apellido = "Torrealba"
+nombre = "Nomaryu"
+apellido = "Kirihara"
 edad = "22"
 username = "nomaryu04"
 email = "nomaryu0@gmailcom"
