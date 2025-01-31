@@ -1,5 +1,5 @@
 #codigo para recojer datos y mostrarlos en pantalla
-nombre = "Camila"
+nombre = "Pepe"
 apellido = "Gutierrez"
 edad = "22"
 username = "nomaryu04"
